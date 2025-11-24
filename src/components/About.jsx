@@ -50,7 +50,7 @@ const About = () => {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1wGokMDfZtgRtixEVtmx6_VqXdrlYmoMZ/preview"
+            href="https://drive.google.com/file/d/1e6a_xMXAhX1kDTz43-rv0Zc7SwdH30gd/preview"
             download
             className="inline-block mt-6 px-8 py-2.5 text-base md:text-lg bg-linear-to-r from-[#eacda3] to-[#d6ae7b] text-black hover:from-[#d6ae7b] hover:to-[#eacda3] rounded-2xl transition"
             data-aos="zoom-in"

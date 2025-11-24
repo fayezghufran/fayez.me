@@ -70,9 +70,10 @@ const Hero = () => {
           </button>
         </ScrollLink>
         <a
-          href="https://drive.google.com/file/d/1wGokMDfZtgRtixEVtmx6_VqXdrlYmoMZ/preview"
+          href="https://drive.google.com/file/d/1e6a_xMXAhX1kDTz43-rv0Zc7SwdH30gd/preview"
           target="_blank"
           rel="noopener noreferrer"
+          
         >
           <button
             className="group w-full sm:w-auto flex items-center justify-center gap-2 
